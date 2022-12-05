@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1050" height="470" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+<img align="center" alt="coding" width="1050" height="445" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 <h1 align="center">Hi 👋, I'm Oleg Bobokhidze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
