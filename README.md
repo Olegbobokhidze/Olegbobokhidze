@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olegbobokhidze" alt="olegbobokhidze" /></a> </p>
 
-- 🌱 I’m currently learning full stack web development at oto's bootcamp https://oto.bitcamp.ge/
 
 - 👨‍💻 All of my projects are available at https://github.com/OlegBobokhidze
 
