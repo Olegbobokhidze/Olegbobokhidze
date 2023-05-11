@@ -1,5 +1,5 @@
 <img align="center" alt="coding" width="1050" height="445" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
-<h1 align="center">Hi 👋, I'm Oleg Bobokhidze</h1>
+<h1 align="center">Hi 👋 I'm Oleg Bobokhidze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olegbobokhidze&label=Profile%20views&color=0e75b6&style=flat" alt="olegbobokhidze" /> </p>
